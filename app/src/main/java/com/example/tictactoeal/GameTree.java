@@ -5,12 +5,7 @@ package com.example.tictactoeal;
  */
 
 /**
- * Yoganand Birbal
- * 111151626
- * Homework #5
- * CSE 214 R14
- * Tayo Amuneke & Yiwen Wang
- * Anand Aiyer
+ * Yogi Birbal
  */
 public class GameTree {
 

@@ -11,7 +11,6 @@ public class MainActivity extends AppCompatActivity {
     static boolean pturn = true;
     static Box player = Box.X;
 
-
     GameTree tree = new GameTree();
     public TextView board1;
     public TextView board2;
